@@ -1,2 +1,3 @@
 # Pokemon Api
-Codealong + Lab: Create Pokemon cards using Pokemon API + Bootstrap
+
+Attempt to create a game thats a hybrid of the video/card games using the pokeapi
